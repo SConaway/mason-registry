@@ -8,6 +8,7 @@ licenses:
   - MIT
 languages:
   - SystemVerilog
+  - Verilog
 categories:
   - LSP
 
